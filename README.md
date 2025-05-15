@@ -1,0 +1,2 @@
+# first-aspnetcore-api
+A simple ASP.NET Core Web API project built as my first hands-on exercise while learning ASP.NET Core. This API simulates an in-memory employee management system with basic CRUD operations including:  Listing all employees  Retrieving an employee by ID  Adding a new employee  Updating an existing employee  Deleting an employee (with basic authorization)  It also demonstrates routing, handling HTTP methods, query parameters, headers, and JSON serialization/deserialization in ASP.NET Core.
